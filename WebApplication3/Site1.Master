@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication3.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="tieude" runat="server"></asp:ContentPlaceHolder>
+    </title>
+        <link href="StyleSheet1.css" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="container">
+            <h1>My Project Web</h1>
+            <nav>
+                <ul>
+                     <li><a href="danhsach.aspx">Danh sách sinh viên</a></li>
+                     <li><a href="themsv.aspx">Thêm sinh viên</a></li>
+                     <li><a href="suasv.aspx">sửa sinh viên</a></li>
+                     <li><a href="tinhtoan.aspx">Tinh binh phuong</a></li>
+                     <li><a href="#">Hướng dẫn</a></li>
+                </ul>
+            </nav>
+            <aside>
+                <img src="Images/a1.jpg" alt="Flower" height="200" width="200"/>
+                <h3>Links</h3>
+                <ul>
+                    <li>Home</li>
+                    <li>Tutorial</li>
+                    <li>Download</li>
+                    <li>Help</li>
+                </ul>
+            </aside>
+            <section id='main'>
+                <asp:ContentPlaceHolder ID="noidung" runat="server" />
+            </section>
+            <footer>
+                Hanoi University of Industry
+            </footer>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

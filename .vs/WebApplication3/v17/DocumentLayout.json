@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\WebForm1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\WebForm1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\suasv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\suasv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\themsv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\themsv.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\themsv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\themsv.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\tinhtoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\tinhtoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\tinhbp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\tinhbp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\danhsach.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\danhsach.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\Index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\ontap2\\StyleSheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\tinhbp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\tinhbp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\Site1.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\StyleSheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D6F47D72-A44C-40A4-B419-CC56AAC89874}|WebApplication3\\WebApplication3.csproj|solutionrelative:WebApplication3\\StyleSheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 109,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.html",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\Index.html",
+              "RelativeDocumentMoniker": "WebApplication3\\Index.html",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\Index.html",
+              "RelativeToolTip": "WebApplication3\\Index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-24T15:59:45.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\Web.config",
+              "RelativeDocumentMoniker": "WebApplication3\\Web.config",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\Web.config",
+              "RelativeToolTip": "WebApplication3\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-24T15:41:23.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "suasv.aspx",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\suasv.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\suasv.aspx",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\suasv.aspx",
+              "RelativeToolTip": "WebApplication3\\suasv.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-23T07:59:43.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "themsv.aspx.cs",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\themsv.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\themsv.aspx.cs",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\themsv.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\themsv.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:43:24.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tinhbp.aspx.cs",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\tinhbp.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\tinhbp.aspx.cs",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\tinhbp.aspx.cs",
+              "RelativeToolTip": "WebApplication3\\tinhbp.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:16:08.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tinhbp.aspx",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\tinhbp.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\tinhbp.aspx",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\tinhbp.aspx",
+              "RelativeToolTip": "WebApplication3\\tinhbp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-23T02:08:30.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tinhtoan.aspx",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\tinhtoan.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\tinhtoan.aspx",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\tinhtoan.aspx",
+              "RelativeToolTip": "WebApplication3\\tinhtoan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-23T01:59:20.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "themsv.aspx",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\themsv.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\themsv.aspx",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\themsv.aspx",
+              "RelativeToolTip": "WebApplication3\\themsv.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-23T01:31:05.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "danhsach.aspx",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\danhsach.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\danhsach.aspx",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\danhsach.aspx",
+              "RelativeToolTip": "WebApplication3\\danhsach.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-22T11:09:22.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\Site1.Master",
+              "RelativeDocumentMoniker": "WebApplication3\\Site1.Master",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\Site1.Master",
+              "RelativeToolTip": "WebApplication3\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-22T10:55:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "WebApplication3\\StyleSheet1.css",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\StyleSheet1.css",
+              "RelativeToolTip": "WebApplication3\\StyleSheet1.css",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAALMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-22T10:31:45.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebApplication3\\WebForm1.aspx",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\WebApplication3\\WebApplication3\\WebForm1.aspx",
+              "RelativeToolTip": "WebApplication3\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-22T10:29:16.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\ontap2\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "..\\ontap2\\StyleSheet1.css",
+              "ToolTip": "F:\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng di \u0111\u1ED9ng\\\u00D4n t\u1EADp tx2\\ontap2\\StyleSheet1.css",
+              "RelativeToolTip": "..\\ontap2\\StyleSheet1.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-25T09:37:02.656Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

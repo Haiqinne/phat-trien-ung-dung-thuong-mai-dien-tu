@@ -1,0 +1,182 @@
+﻿/* --- 1. CẤU HÌNH CHUNG --- */
+body {
+    background-color: #f0f2f5; /* Màu nền xám nhạt hiện đại */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Font chữ chuẩn Windows */
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* --- 2. KHUNG BAO NGOÀI (CONTAINER) --- */
+#container {
+    width: 960px;
+    margin: 30px auto; /* Canh giữa và cách top 30px */
+    background-color: #ffffff; /* Nền trắng */
+    border-radius: 8px; /* Bo góc */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* Đổ bóng nhẹ tạo chiều sâu */
+    overflow: hidden; /* Để bo góc hoạt động với thẻ con */
+}
+
+/* --- 3. HEADER --- */
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    color: #10889E; /* Giữ màu chủ đạo của bạn */
+    font-weight: 600;
+    margin: 0;
+    padding: 30px 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* --- 4. NAVIGATION (MENU NGANG) --- */
+nav {
+    background-color: #10889E;
+    text-align: center;
+    border-bottom: 4px solid #0a6c7e;
+}
+
+    nav ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    nav li {
+        display: inline-block; /* Thay cho display inline để chỉnh padding tốt hơn */
+    }
+
+        nav li a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 15px 20px; /* Tăng khoảng cách bấm cho dễ */
+            font-weight: bold;
+            transition: all 0.3s; /* Hiệu ứng chuyển màu mượt */
+        }
+
+            nav li a:hover {
+                background-color: #0d6e80; /* Màu đậm hơn khi di chuột */
+                color: #fff;
+            }
+
+/* --- 5. SIDEBAR (THANH BÊN TRÁI) --- */
+aside {
+    width: 220px;
+    float: left;
+    margin: 20px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-right: 1px solid #ddd;
+    box-sizing: border-box; /* Tính padding vào độ rộng */
+}
+
+    /* Ảnh trong sidebar tự co giãn */
+    aside img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 5px;
+        margin-bottom: 15px;
+        border: 3px solid white;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+
+    aside h3 {
+        color: #10889E;
+        border-bottom: 2px solid #10889E;
+        padding-bottom: 5px;
+        margin-bottom: 10px;
+    }
+
+    aside ul {
+        list-style-type: none; /* Bỏ chấm tròn */
+        padding: 0;
+    }
+
+        aside ul li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+        }
+
+/* --- 6. MAIN CONTENT (NỘI DUNG CHÍNH) --- */
+#main {
+    width: 660px; /* Tinh chỉnh lại kích thước */
+    float: right;
+    margin: 20px;
+    line-height: 1.6;
+    min-height: 400px; /* Đảm bảo khung không bị ngắn quá */
+}
+
+h2 {
+    color: #10889E;
+    border-left: 5px solid #10889E;
+    padding-left: 10px;
+    margin-top: 0;
+}
+
+/* --- 7. FOOTER --- */
+footer {
+    background-color: #333;
+    color: #fff;
+    clear: both; /* Ngắt float */
+    padding: 20px;
+    text-align: center;
+    font-size: 0.9em;
+}
+
+/* --- 8. CÁC PHẦN BỔ SUNG (CHO TRANG CON) --- */
+
+/* Style cho các nhãn (Label) trong form */
+label {
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+/* Style cho ô nhập liệu (TextBox) */
+input[type="text"], input[type="password"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+/* Style cho nút bấm (Button) */
+input[type="submit"], button {
+    background-color: #10889E;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+    input[type="submit"]:hover {
+        background-color: #0b6a7a;
+    }
+
+/* Style cho bảng GridView (Rất quan trọng cho trang Danh Sách) */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+    table th {
+        background-color: #10889E;
+        color: white;
+        padding: 10px;
+        text-align: left;
+    }
+
+    table td {
+        border: 1px solid #ddd;
+        padding: 8px;
+    }
+
+    table tr:nth-child(even) {
+        background-color: #f2f2f2; /* Màu xen kẽ các dòng */
+    }

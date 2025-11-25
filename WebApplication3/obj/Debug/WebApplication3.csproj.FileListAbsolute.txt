@@ -1,0 +1,118 @@
+E:\tich\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+E:\tich\WebApplication3\WebApplication3\bin\WebApplication3.dll
+E:\tich\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Globalization.Calendars.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Net.Http.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Net.Sockets.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+E:\tich\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+E:\tich\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\tich\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\tich\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.AssemblyReference.cache
+E:\tich\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+E:\tich\WebApplication3\WebApplication3\obj\Debug\WebAppli.18867FDF.Up2Date
+E:\tich\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+E:\tich\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\WebApplication3.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\csc.exe
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\csc.exe.config
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\csc.rsp
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\csi.exe
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\csi.exe.config
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\csi.rsp
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.AppContext.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Collections.Immutable.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Console.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Globalization.Calendars.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Net.Http.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Net.Sockets.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Reflection.Metadata.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.ValueTuple.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\vbc.exe
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\vbc.exe.config
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\vbc.rsp
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\roslyn\VBCSCompiler.exe.config
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.AssemblyReference.cache
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\obj\Debug\WebAppli.18867FDF.Up2Date
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+F:\Phát triển ứng dụng di động\Ôn tập tx2\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
